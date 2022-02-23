@@ -10,7 +10,7 @@
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Evan-WH&show_icons=true&include_all_commits=true" style="width:417px"  />
 </a>
 <a href="https://github.com/Evan-WH">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evan-WH&layout=compact"style="width:200px" />
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evan-WH&layout=compact"style="width:417px" />
 </a>
 
 Languages and Tools:
