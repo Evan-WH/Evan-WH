@@ -7,7 +7,7 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=ryyyc alt=ryyyc /> </p>
 
 <a href="https://github.com/Evan-WH">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Evan-WH&show_icons=true&include_all_commits=true" style="width:40%" />
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Evan-WH&show_icons=true&include_all_commits=true" style="width:300px" />
 </a>
 <a href="https://github.com/Evan-WH">
   <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evan-WH&layout=compact" />
