@@ -2,7 +2,7 @@
 
 [![Mail Badge](https://img.shields.io/badge/-2637405542wh@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:iswuhao.cn)](mailto:iswuhao.cn) 
 [![Github Badge](https://img.shields.io/badge/-Evan-WH-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Evan-WH/)](https://www.github.com/Evan-WH/)
-[![Github Badge](https://img.shields.io/badge/-ryyyc-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ryyyc/)](https://www.github.com/ryyyc/)
+[![Github Badge](https://img.shields.io/badge/-Evan-WH-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ryyyc/)](https://www.github.com/ryyyc/)
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=ryyyc alt=ryyyc /> </p>
 
